@@ -1,7 +1,14 @@
 <div align="center">
 
-# 🃏 德州扑克俱乐部源码 | 德州撲克俱樂部源碼 | Texas Hold'em Club Source Code
+# 🃏 Texas Hold'em Private Club & Private Room Source Code | 德州扑克私人俱乐部源码 | 德州撲克私人俱樂部源碼
+🔥 Production-ready Texas Hold'em Private Club Platform ｜ 生产级私人俱乐部德州扑克平台 ｜ 生產級私人俱樂部德州撲克平台  
+🔥 Real-time multiplayer & multi-device support ｜ 实时多人，多端支持 ｜ 即時多人，多端支持  
+🔥 Already used in real poker projects ｜ 已应用于真实扑克项目 ｜ 已應用於真實撲克項目  
+🔥 Contact now for full source code & live demo ｜ 联系获取完整源码及在线演示 ｜ 聯絡獲取完整源碼及在線演示  
 
+Build your own profitable private club poker platform in days.  
+几天即可搭建自己的盈利私人俱乐部德州扑克平台。  
+幾天即可搭建自己的盈利私人俱樂部德州撲克平台。
 **私人局 · 朋友局 · 联盟系统 · 语音聊天**
 
 [![Contact](https://img.shields.io/badge/联系-Telegram-blue.svg)](https://t.me/alibabama401)
@@ -11,6 +18,8 @@
 </div>
 
 ---
+
+
 
 ## 📖 产品简介 | 產品簡介 | Overview
 
@@ -35,6 +44,26 @@
 
 ---
 
+## ✨ Features | 核心功能 | 功能特色
+
+- ✅ Full source code (Server + Client) ｜ 完整源码 ｜ 完整源碼  
+- ✅ Private Club / Room system ｜ 私人俱乐部 / 房间系统 ｜ 私人俱樂部 / 房間系統  
+- ✅ Real-time multiplayer (WebSocket) ｜ 实时多人 ｜ 即時對戰  
+- ✅ High-performance C++ engine ｜ 高性能引擎 ｜ 高效能引擎  
+- ✅ Scalable architecture ｜ 可扩展 ｜ 可擴展  
+- ✅ Payment & Rake system ｜ 支付与抽水系统 ｜ 支付與抽水系統  
+- ✅ Admin panel for management ｜ 后台管理 ｜ 後台管理
+
+
+## 🧩 System Modules | 系统模块 | 系統模組
+
+- 🎮 Game Engine (核心游戏逻辑 / 核心邏輯)  
+- 📱 Web & Mobile Client (多端客户端)  
+- 🏠 Club / Private Room System (俱乐部 / 私人房间系统)  
+- 💰 Payment & Rake System (支付与抽水系统)  
+- 🛠 Admin Panel (后台管理系统)  
+- 📊 Statistics & Analytics (数据统计与分析)  
+
 ## 🎮 游戏玩法 | 遊戲玩法 | Game Modes
 
 | 玩法 | 说明 |
@@ -45,6 +74,12 @@
 | 🍍 **大菠萝** | 13张牌摆牌玩法 |
 | ♦️ **短牌** | 去掉2-5张牌，节奏更快 |
 
+
+## 💰 Monetization Model | 盈利模式 | 盈利模式
+
+- ✔ Game rake (抽水)  
+- ✔ Tournament fees (报名费)  
+- ✔ Club system revenue (俱乐部收益)  
 ---
 
 ## 🏗️ 技术架构 | Tech Stack
@@ -115,7 +150,14 @@ A：可以。源码支持功能扩展和 UI 定制。
 A：提供。购买后可远程协助部署。
 
 ---
+## 💬 Contact | 联系方式 | 聯絡方式
 
+📧 Email: ttpoker40@gmail.com  
+💬 Telegram: @alibabama401  
+## 🔍 Keywords (SEO) | 关键词 | 關鍵字
+
+Texas Hold'em private club source code, poker private room platform, online poker software, casino game system, poker engine, multiplayer poker server,  
+德州扑克私人俱乐部源码, 私人房间德州扑克, 多人德州扑克, 在线德州扑克, 德州扑克完整源码
 <div align="center">
 
 **如果这个项目对你有帮助，欢迎点个 Star 支持一下！**  
